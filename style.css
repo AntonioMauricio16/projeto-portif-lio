@@ -1,0 +1,119 @@
+
+* {
+    margin: 0;
+}
+main {
+    background-color: #52686B;
+}
+header {
+    background-color: #005661;
+    width: 250px;
+    height: 100vh;
+}
+a {
+    text-decoration: none;
+    color:white;
+}
+#imagem-perfil {
+    position: absolute;
+    left: 50px;
+    top: 150px;
+    height: 150px;
+    width: 140px;
+    border-radius: 50%;
+}
+#atalhos1 {
+    text-decoration: none;
+    position: relative;
+    top: 330px;
+    left: 100px;
+    color: white;
+}
+#atalhos2 {
+    position: relative;
+    top: 350px;
+    left: 70px;
+    text-decoration: none;
+    color: white;
+}
+#atalhos3 {
+    position: relative;
+    top: 370px;
+    left: 90px;
+    text-decoration: none;
+    color:white;
+}
+h1 {
+    position: absolute;
+    color:white;
+    top: 30%;
+    left: 22%;
+    font-size: 48px;
+    font-family: 'Cinzel', serif;
+}
+strong {
+    color: black;
+}
+h2 {
+    position: absolute;
+    color:black;
+    top: 45%;
+    left: 22%;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    position: absolute;
+    color:black;
+    top: 55%;
+    left: 22%;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+#listas {
+    position: absolute;
+    top: 200px;
+    left: 250px;
+    font-size: 22px;
+}
+li {
+    margin-top: 5px;
+    font-family: 'Cinzel', serif;
+    color: white;
+}
+#icone-linkedin {
+    position: absolute;
+    top: 430px;
+    left: 390px;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(3, 3, 3);
+    border-radius: 50%;
+}
+
+#icone-github {
+    position: absolute;
+    top: 430px;
+    left:460px;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(3, 3, 3);
+    border-radius: 50%;
+}
+#icone-instagram {
+    position: absolute;
+    top: 430px;
+    left: 530px;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(3, 3, 3);
+    border-radius: 50%;
+}
+#objetivos {
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    font-size: 22px;
+    
+
+}
