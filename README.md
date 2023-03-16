@@ -13,5 +13,5 @@
 <li>Na página de conhecimentos a lista ser ordenada por letras.</li>
 <li>Na página de objetivo a lista deve ser não-ordenada.</i>
 <li>Criar um repositório no Github.</i><br>
-<p>Fico muito grato pela oportunidade e experiência que tive neste projeto e aguardando os próximos.</p><br>
+<p>Fico muito grato pela oportunidade e experiência que tive.</p><br>
 
