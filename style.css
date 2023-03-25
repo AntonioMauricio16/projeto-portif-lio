@@ -1,12 +1,13 @@
 
 * {
     margin: 0;
+
 }
 main {
-    background-color: #52686B;
+    background-color:#BFBE9C;
 }
 header {
-    background-color: #005661;
+    background-color: #004040;
     width: 250px;
     height: 100vh;
 }
@@ -45,18 +46,18 @@ a {
 }
 h1 {
     position: absolute;
-    color:white;
+    color: #802922;
     top: 30%;
     left: 22%;
     font-size: 48px;
     font-family: 'Cinzel', serif;
 }
 strong {
-    color: black;
+    color: white;
 }
 h2 {
     position: absolute;
-    color:black;
+    color:#802922;
     top: 45%;
     left: 22%;
     font-size: 18px;
@@ -64,7 +65,7 @@ h2 {
 }
 h3 {
     position: absolute;
-    color:black;
+    color:#802922;
     top: 55%;
     left: 22%;
     font-size: 18px;
@@ -79,7 +80,7 @@ h3 {
 li {
     margin-top: 5px;
     font-family: 'Cinzel', serif;
-    color: white;
+    color: #802922;
 }
 #icone-linkedin {
     position: absolute;
@@ -114,6 +115,7 @@ li {
     top: 200px;
     left: 300px;
     font-size: 22px;
+    color: #802922  ;
     
 
 }
